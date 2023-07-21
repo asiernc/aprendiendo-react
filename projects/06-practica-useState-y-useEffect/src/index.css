@@ -56,6 +56,20 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+#task-container{
+  padding: 3px;
+  width: 600px;
+  height: auto;
+  background-color: #535bf2;
+  opacity: .9;
+  box-shadow: 4px 4px #232df3;
+  color: black;
+}
+input{
+  width: 300px;
+  padding: 10px;
+  margin: 15px;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
