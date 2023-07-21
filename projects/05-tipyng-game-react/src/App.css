@@ -1,0 +1,31 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.08em;
+}
+h1{
+  font-size: 1.12em;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.error {
+  background-color: lightcoral;
+  border: red;
+}
+#message{
+  display: inline-block;
+  align-items: center;
+  background-color: aquamarine;
+  margin: 10px 10px;
+}
+#container{
+  display: inline-block;
+  align-items: center;
+  padding: 30px;
+  background-color: aqua;
+  border-color: rgb(21, 149, 149);
+  box-shadow: 5px 5px 5px black;
+  border-radius: 5px;
+}
